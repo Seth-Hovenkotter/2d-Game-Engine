@@ -1,0 +1,373 @@
+# depslib dependency file v1.0
+1205856096 source:c:\users\seth hovenkotter\documents\workspace\2dgame\canimation.cpp
+	"CAnimation.h"
+
+1386124273 c:\users\seth hovenkotter\documents\workspace\2dgame\canimation.h
+	<SDL/SDL.h>
+
+315558060 c:\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+315558060 c:\sdl\include\sdl\sdl_platform.h
+
+315558060 c:\sdl\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+315558060 c:\sdl\include\sdl\begin_code.h
+
+315558060 c:\sdl\include\sdl\close_code.h
+
+315558060 c:\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_keysym.h
+
+315558060 c:\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+315558060 c:\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+315558060 c:\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1203699054 source:c:\users\seth hovenkotter\documents\workspace\2dgame\capp.cpp
+	"CApp.h"
+
+1398746134 c:\users\seth hovenkotter\documents\workspace\2dgame\capp.h
+	<SDL/SDL.h>
+	"Define.h"
+	"CFPS.h"
+	"CArea.h"
+	"CCamera.h"
+	"CEntity.h"
+	"CEvent.h"
+	"CSurface.h"
+	"CWolf.h"
+	"CPlayer.h"
+	"CFireball.h"
+	"CCheckPoint.h"
+	"CHealthbar.h"
+	"PlayerControl.h"
+	"Vector.h"
+
+1398740328 c:\users\seth hovenkotter\documents\workspace\2dgame\define.h
+
+1386124280 c:\users\seth hovenkotter\documents\workspace\2dgame\cfps.h
+	<SDL/SDL.h>
+
+1225206104 c:\users\seth hovenkotter\documents\workspace\2dgame\carea.h
+	"CMap.h"
+
+1386124285 c:\users\seth hovenkotter\documents\workspace\2dgame\cmap.h
+	<SDL/SDL.h>
+	<vector>
+	"CTile.h"
+	"CSurface.h"
+
+1205619796 c:\users\seth hovenkotter\documents\workspace\2dgame\ctile.h
+	"Define.h"
+
+1386124291 c:\users\seth hovenkotter\documents\workspace\2dgame\csurface.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+315558060 c:\sdl\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1398474658 c:\users\seth hovenkotter\documents\workspace\2dgame\ccamera.h
+	<SDL/SDL.h>
+	"Define.h"
+
+1398643685 c:\users\seth hovenkotter\documents\workspace\2dgame\centity.h
+	<vector>
+	"CArea.h"
+	"CAnimation.h"
+	"CCamera.h"
+	"CFPS.h"
+	"CSurface.h"
+	"Vector.h"
+
+1386730206 c:\users\seth hovenkotter\documents\workspace\2dgame\cevent.h
+	<SDL/SDL.h>
+
+1398727175 c:\users\seth hovenkotter\documents\workspace\2dgame\cplayer.h
+	"CEntity.h"
+
+1386730206 source:c:\users\seth hovenkotter\documents\workspace\2dgame\capp_oncleanup.cpp
+	"CApp.h"
+
+1398733295 source:c:\users\seth hovenkotter\documents\workspace\2dgame\capp_onevent.cpp
+	"CApp.h"
+
+1398748558 source:c:\users\seth hovenkotter\documents\workspace\2dgame\capp_oninit.cpp
+	"CApp.h"
+
+1398746894 source:c:\users\seth hovenkotter\documents\workspace\2dgame\capp_onloop.cpp
+	"CApp.h"
+
+1386730206 source:c:\users\seth hovenkotter\documents\workspace\2dgame\capp_onrender.cpp
+	"CApp.h"
+
+1249310342 source:c:\users\seth hovenkotter\documents\workspace\2dgame\carea.cpp
+	"CArea.h"
+
+1225206662 source:c:\users\seth hovenkotter\documents\workspace\2dgame\ccamera.cpp
+	"CCamera.h"
+
+1398643685 source:c:\users\seth hovenkotter\documents\workspace\2dgame\centity.cpp
+	"CEntity.h"
+
+1386730206 source:c:\users\seth hovenkotter\documents\workspace\2dgame\cevent.cpp
+	"CEvent.h"
+
+1213117164 source:c:\users\seth hovenkotter\documents\workspace\2dgame\cfps.cpp
+	"CFPS.h"
+
+1225206150 source:c:\users\seth hovenkotter\documents\workspace\2dgame\cmap.cpp
+	"CMap.h"
+
+1398728908 source:c:\users\seth hovenkotter\documents\workspace\2dgame\cplayer.cpp
+	"CPlayer.h"
+
+1206541040 source:c:\users\seth hovenkotter\documents\workspace\2dgame\csurface.cpp
+	"CSurface.h"
+
+1205591820 source:c:\users\seth hovenkotter\documents\workspace\2dgame\ctile.cpp
+	"CTile.h"
+
+1398746134 source:c:\users\seth hovenkotter\documents\workspace\2dgame\capp.h
+	<SDL/SDL.h>
+	"Define.h"
+	"CFPS.h"
+	"CArea.h"
+	"CCamera.h"
+	"CEntity.h"
+	"CEvent.h"
+	"CSurface.h"
+	"CWolf.h"
+	"CPlayer.h"
+	"CFireball.h"
+	"CCheckPoint.h"
+	"CHealthbar.h"
+	"PlayerControl.h"
+	"Vector.h"
+
+1386126757 source:c:\users\seth hovenkotter\documents\workspace\2dgame\centitycol.cpp
+	"CEntity.h"
+
+1398655818 source:c:\users\seth hovenkotter\documents\workspace\2dgame\cwolf.cpp
+	"CWolf.h"
+
+1398640367 c:\users\seth hovenkotter\documents\workspace\2dgame\cwolf.h
+	"CEntity.h"
+
+1398468656 c:\users\seth hovenkotter\documents\workspace\2dgame\vector.h
+	<vector>
+	<math.h>
+
+1398468656 source:c:\users\seth hovenkotter\documents\workspace\2dgame\vector.cpp
+	"vector.h"
+
+1398646330 source:c:\users\seth hovenkotter\documents\workspace\2dgame\ccheckpoint.cpp
+	"CCheckPoint.h"
+
+1398641310 c:\users\seth hovenkotter\documents\workspace\2dgame\ccheckpoint.h
+	"CEntity.h"
+
+1398747108 source:c:\users\seth hovenkotter\documents\workspace\2dgame\cfireball.cpp
+	"CFireball.h"
+
+1398652341 c:\users\seth hovenkotter\documents\workspace\2dgame\cfireball.h
+	"CEntity.h"
+	"Vector.h"
+
+1398732001 source:c:\users\seth hovenkotter\documents\workspace\2dgame\chealthbar.cpp
+	"CHealthbar.h"
+
+1398726200 c:\users\seth hovenkotter\documents\workspace\2dgame\chealthbar.h
+	"CEntity.h"
+	"PlayerControl.h"
+	"CSurface.h"
+
+1386126757 c:\users\seth hovenkotter\documents\workspace\2dgame\entity.h
+	<vector>
+	"CArea.h"
+	"CAnimation.h"
+	"CCamera.h"
+	"CFPS.h"
+	"CSurface.h"
+
+1398725856 c:\users\seth hovenkotter\documents\workspace\2dgame\playercontrol.h
+	"Vector.h"
+
+1398725854 source:c:\users\seth hovenkotter\documents\workspace\2dgame\playercontrol.cpp
+	"PlayerControl.h"
+
